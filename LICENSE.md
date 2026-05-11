@@ -1,4 +1,4 @@
-#
+#Get the ultimate Notion for Windows script with Notion for Windows vip Script: dark-mode & search-functionality. Featuring dark-mode and search-functionality, it's the best choice
 
 
 
